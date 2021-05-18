@@ -21,7 +21,7 @@ I am a student of **HDU**, Hangzhou, China, majoring in **Network Engineering**.
 
 ### :microscope: Tech & Tools Preference
 
-![Go][shield_go] ![Python][shield_python] ![C][shield_c] ![Swift][shield_swift] ![HTML5][shield_html5] ![CSS3][shield_css3] ![JavaScript][shield_javascript] ![Sass][shield_sass] 
+![Go][shield_go] ![Python][shield_python] ![C][shield_c] ![PHP][shield_php] ![Swift][shield_swift] ![HTML5][shield_html5] ![CSS3][shield_css3] ![JavaScript][shield_javascript] ![Sass][shield_sass] 
 ![Git][shield_git] ![GitHub][shield_github] ![VS Code][shield_vs-code]
 ![Linux][shield_linux] ![MacOS][shield_macos] ![Docker][shield_docker] ![Hugo][shield_hugo]
 
@@ -68,6 +68,7 @@ I am a student of **HDU**, Hangzhou, China, majoring in **Network Engineering**.
 [shield_openstack]: https://img.shields.io/badge/-OpenStack-ED1944?style=flat&logo=openstack&logoColor=ffffff
 [shield_open-shift]: https://img.shields.io/badge/-Open%20Shift-EE0000?style=flat&logo=red-hat-open-shift&logoColor=ffffff
 [shield_perl]: https://img.shields.io/badge/-Perl-39457E?style=flat&logo=perl&logoColor=ffffff
+[shield_php]: https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=ffffff
 [shield_postgresql]: https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=ffffff
 [shield_python]: https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff
 [shield_qt]: https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=ffffff
