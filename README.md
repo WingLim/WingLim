@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 I am a student of **HDU**, Hangzhou, China, majoring in **Network Engineering**.
 
+Sometimes I write articles on [my blog](https://blog.limx.dev).
+
 ### :microscope: Tech & Tools Preference
 
 #### Backend:
@@ -28,7 +30,7 @@ I am a student of **HDU**, Hangzhou, China, majoring in **Network Engineering**.
 #### Frontend
 ![TypeScript][shield_typescript] ![JavaScript][shield_javascript] ![HTML5][shield_html5] ![CSS3][shield_css3] ![Sass][shield_sass] 
 
-#### System
+#### Operating System
 ![Linux][shield_linux] ![MacOS][shield_macos] 
 
 #### Tools
