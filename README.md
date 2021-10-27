@@ -21,9 +21,19 @@ I am a student of **HDU**, Hangzhou, China, majoring in **Network Engineering**.
 
 ### :microscope: Tech & Tools Preference
 
-![Go][shield_go] ![Python][shield_python] ![Rust][shield_rust] ![C][shield_c] ![PHP][shield_php] ![Swift][shield_swift] ![HTML5][shield_html5] ![CSS3][shield_css3] ![JavaScript][shield_javascript] ![Sass][shield_sass] 
-![Git][shield_git] ![GitHub][shield_github] ![VS Code][shield_vs-code]
-![Linux][shield_linux] ![MacOS][shield_macos] ![Docker][shield_docker] ![Hugo][shield_hugo]
+#### Backend:
+
+![Go][shield_go] ![Python][shield_python] ![Rust][shield_rust] ![C][shield_c] ![PHP][shield_php] ![Swift][shield_swift]
+
+#### Frontend
+![TypeScript][shield_typescript] ![JavaScript][shield_javascript] ![HTML5][shield_html5] ![CSS3][shield_css3] ![Sass][shield_sass] 
+
+#### System
+![Linux][shield_linux] ![MacOS][shield_macos] 
+
+#### Tools
+
+![VS Code][shield_vs-code] ![Docker][shield_docker] ![Hugo][shield_hugo]
 
 ### :mailbox: How to reach me:
 
