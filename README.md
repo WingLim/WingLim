@@ -25,7 +25,7 @@ Sometimes I write articles on [my blog](https://blog.limx.dev).
 
 #### Backend:
 
-![Go][shield_go] ![Python][shield_python] ![Rust][shield_rust] ![C][shield_c] ![PHP][shield_php] ![Swift][shield_swift]
+![Go][shield_go] ![Python][shield_python] ![Rust][shield_rust] ![C][shield_c] ![Swift][shield_swift]
 
 #### Frontend
 ![TypeScript][shield_typescript] ![JavaScript][shield_javascript] ![HTML5][shield_html5] ![CSS3][shield_css3] ![Sass][shield_sass] 
