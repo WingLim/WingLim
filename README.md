@@ -1,5 +1,3 @@
-## WingLim
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=WingLim&show_icons=true&hide_border=true&include_all_commits=true" width="480px">
 
 Sometimes I write articles on [my blog](https://blog.limx.dev).
