@@ -1,41 +1,14 @@
 ## WingLim
 
-<!--
-**WingLim/WingLim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=WingLim&show_icons=true&hide_border=true&include_all_commits=true" width="480px">
-
-I am a student of **HDU**, Hangzhou, China, majoring in **Network Engineering**.
 
 Sometimes I write articles on [my blog](https://blog.limx.dev).
 
 ### :microscope: Tech & Tools Preference
 
-#### Backend:
-
-![Go][shield_go] ![Python][shield_python] ![Rust][shield_rust] ![C][shield_c] ![Swift][shield_swift]
-
-#### Frontend
-![TypeScript][shield_typescript] ![JavaScript][shield_javascript] ![HTML5][shield_html5] ![CSS3][shield_css3] ![Sass][shield_sass] 
-
-#### Operating System
-![Linux][shield_linux] ![MacOS][shield_macos] 
-
-#### Tools
-
-![VS Code][shield_vs-code] ![Docker][shield_docker] ![Hugo][shield_hugo]
+- ![Go][shield_go] ![Python][shield_python] ![Rust][shield_rust] ![C][shield_c] ![Swift][shield_swift] ![Zig][shield_zig]
+- ![TypeScript][shield_typescript] ![JavaScript][shield_javascript] 
+- ![Linux][shield_linux] ![MacOS][shield_macos] 
 
 ### :mailbox: How to reach me:
 
@@ -49,6 +22,7 @@ Sometimes I write articles on [my blog](https://blog.limx.dev).
 <!-- Shield Links -->
 [shield_angular]: https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=ffffff
 [shield_c]: https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=ffffff
+[shield_zig]: https://img.shields.io/badge/-Zig-F7A41D?style=flat&logo=zig&logoColor=ffffff
 [shield_c-sharp]: https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=ffffff
 [shield_cpp]: https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=ffffff
 [shield_css3]: https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff
